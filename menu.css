@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0:;
+}
+
+header{
+	width: 100%;
+	background:#f2f2f2;
+	box-shadow: 1px 1px 5px #000;
+	height: 50px;
+}
+#munu{
+	width:400px;
+	padding-top:10px;
+	margin:auto;
+}
+#menu{
+	ul a{
+		color: #1B58B0;
+		text-decoration: none;
+		font: bold 16px verdana;
+		padding: 12px 12px;
+		background: #911FDF;
+	}
+}
