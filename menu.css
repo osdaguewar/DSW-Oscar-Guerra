@@ -4,7 +4,9 @@
 }
 
 body{
-	
+	width: 350px;
+	height: 200px;
+
 }
 
 header{
@@ -21,7 +23,7 @@ header{
 #menu{
 	ul a{
 		color: #1B58B0;
-		text-decoration: none;
+		text-decoration: none;|
 		font: bold 16px verdana;
 		padding: 12px 12px;
 		background: #911FDF;
