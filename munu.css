@@ -1,0 +1,7 @@
+#munu{
+	width: 500px;
+	margin: 0 auto;
+}
+#menu>ul>ul{
+	float: left;
+}
