@@ -1,22 +1,22 @@
-.munu11 ul {
+.munu.css ul {
 	display: flex;
 	padding: 0;
 	margin: 0;
 	list-style-type: none;
 }
-.menu11 a{
+.menu.css a{
 	display: block;
 	padding: 2em;
 	background-color: #174BD6;
 	text-emphasis: none;
 	color:#174BD6;
 }
-.menu11 a:hover {
+.menu.css a:hover {
 	background-color: #174BD6;
 }
-.menu11 ul li ul {
+.menu.css ul li ul {
 	display: none;
 }
-.menu11 ul li a:hover + ul, .menu11 ul li ul:hover{
+.menu.css ul li a:hover + ul, .menu11 ul li ul:hover{
 	display: block;
 }
