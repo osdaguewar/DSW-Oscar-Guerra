@@ -1,22 +1,4 @@
-.munu.css ul {
-	display: flex;
-	padding: 0;
-	margin: 0;
-	list-style-type: none;
-}
-.menu.css a{
-	display: block;
-	padding: 2em;
-	background-color: #174BD6;
-	text-emphasis: none;
-	color:#174BD6;
-}
-.menu.css a:hover {
-	background-color: #174BD6;
-}
-.menu.css ul li ul {
-	display: none;
-}
-.menu.css ul li a:hover + ul, .menu.css ul li ul:hover{
-	display: block;
+header{
+	background-color: #0005155
+	
 }
